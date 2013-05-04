@@ -2,6 +2,6 @@
 *.ko
 *#*
 *~*
-.mod.*
-Module.sysmvers
+*.mod.*
+Module.symvers
 modules.order
